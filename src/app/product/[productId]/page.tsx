@@ -1,7 +1,6 @@
 import ProductCategory from "@/components/ProductCategory/ProductCategory";
 import ProductForm from "@/components/ProductForm";
 import { anotherProducts, productDetail } from "@/constant/data";
-
 const ProductDetailPage = () => {
   return (
     <>

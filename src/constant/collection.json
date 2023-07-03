@@ -1,0 +1,1228 @@
+{
+  "all": [
+    {
+      "id": "638f6acf-e929-409f-9433-3f064b592522",
+      "banner": "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_1.png?v=662",
+      "name": "Endless summer",
+      "content": "Timeless Beauty là sự giao thoa giữa phong cách tối giản và hiện đại, mỗi thiết kế trong bộ sưu tập đều được nhấn nhá bằng những chi tiết tinh xảo như: hoa đính 3D, tay bồng, xếp ly,… Trên nền chất liệu nhẹ mát tạo ra các thiết kế bắt mắt, nổi bật nhưng vẫn đảm bảo sự thoải mái, dễ chịu cho quý cô trong tiết trời ngày hè.\n Timeless Beauty là sự giao thoa giữa phong cách tối giản và hiện đại, mỗi thiết kế trong bộ sưu tập đều được nhấn nhá bằng những chi tiết tinh xảo như: hoa đính 3D, tay bồng, xếp ly,… Trên nền chất liệu cao cấp cùng phom dáng và kỹ thuật may thượng thời, các set đồ của NEM giúp đánh thức vẻ đẹp rạng rỡ và tỏa sáng của mỗi người phụ nữ.",
+      "products": [
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        }
+      ],
+      "images": [
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_2_1.png?v=662",
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_2_2.png?v=662"
+      ]
+    },
+    {
+      "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+      "banner": "https://file.hstatic.net/200000182297/file/banner_hang_236469d88ddc4ccca088f859d8eba7b4.jpg",
+      "name": "Nature is calling",
+      "content": "Không có mùa hè nào kéo dài bất tận. Không có khoảnh khắc nào là mãi mãi. Chỉ có những trải nghiệm tuyệt đẹp với những kỷ niệm được cất giữ trong tâm trí mới chính là mùa hè bất tận. Vì vậy, bộ sưu tập Endless Summer được NEM cho ra mắt với mong muốn được đồng hành cùng bạn tận hưởng trọn vẹn từng giây phút tạo nên một mùa hè thật đáng nhớ.\n\nViễn cảnh về mùa hè bất tận trong Endless Summer, được NEM phác họa không phải từ những chiếc đầm maxi bay bổng dành cho biển xanh, cát trắng mà đó là hình ảnh của kiểu dáng váy xòe bồng bềnh, dáng váy A sang trọng, thoải mái và những set đồ sành điệu, mới lạ giúp bạn dễ dàng diện khi đi làm hay cả khi xuống phố.\n\nBộ sưu tập hiện đã có mặt tại toàn bộ hệ thống showroom NEM!",
+      "products": [
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        },
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        }
+      ],
+      "images": [
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_4_1.png?v=662",
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_4_2.png?v=662"
+      ]
+    },
+    {
+      "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+      "banner": "https://file.hstatic.net/200000182297/file/banner_hang_2_2a9d3a4c0c3e49ac82033e5f27cbf31d.jpg",
+      "name": "Color your life",
+      "content": "Không có mùa hè nào kéo dài bất tận. Không có khoảnh khắc nào là mãi mãi. Chỉ có những trải nghiệm tuyệt đẹp với những kỷ niệm được cất giữ trong tâm trí mới chính là mùa hè bất tận. Vì vậy, bộ sưu tập Endless Summer được NEM cho ra mắt với mong muốn được đồng hành cùng bạn tận hưởng trọn vẹn từng giây phút tạo nên một mùa hè thật đáng nhớ.\n\nViễn cảnh về mùa hè bất tận trong Endless Summer, được NEM phác họa không phải từ những chiếc đầm maxi bay bổng dành cho biển xanh, cát trắng mà đó là hình ảnh của kiểu dáng váy xòe bồng bềnh, dáng váy A sang trọng, thoải mái và những set đồ sành điệu, mới lạ giúp bạn dễ dàng diện khi đi làm hay cả khi xuống phố.\n\nBộ sưu tập hiện đã có mặt tại toàn bộ hệ thống showroom NEM!",
+      "products": [
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        },
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        }
+      ],
+      "images": [
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_4_1.png?v=662",
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_4_2.png?v=662"
+      ]
+    },
+    {
+      "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+      "banner": "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_1.png?v=662",
+      "name": "Office lady",
+      "content": "Không có mùa hè nào kéo dài bất tận. Không có khoảnh khắc nào là mãi mãi. Chỉ có những trải nghiệm tuyệt đẹp với những kỷ niệm được cất giữ trong tâm trí mới chính là mùa hè bất tận. Vì vậy, bộ sưu tập Endless Summer được NEM cho ra mắt với mong muốn được đồng hành cùng bạn tận hưởng trọn vẹn từng giây phút tạo nên một mùa hè thật đáng nhớ.\n\nViễn cảnh về mùa hè bất tận trong Endless Summer, được NEM phác họa không phải từ những chiếc đầm maxi bay bổng dành cho biển xanh, cát trắng mà đó là hình ảnh của kiểu dáng váy xòe bồng bềnh, dáng váy A sang trọng, thoải mái và những set đồ sành điệu, mới lạ giúp bạn dễ dàng diện khi đi làm hay cả khi xuống phố.\n\nBộ sưu tập hiện đã có mặt tại toàn bộ hệ thống showroom NEM!",
+      "products": [
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        },
+        {
+          "id": "638f6acf-e929-409f-9433-3f064b592522",
+          "name": "ĐẦM TRỄ VAI HOA NHÍ D43302",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/4_4d88b9ba4e154628a049627c2b0f761d_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_e0f67a0b3c964bb6a72887f5121f6389_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_2__91141f0678774651a48aad8dd08b8c7b_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d205621412362140657p1599dt_1__ed1f1e395bd14f97b598fceb1001023c_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp cao cấp",
+          "style": "đầm thiết kế dáng suông dài qua gối, tone màu be kết hợp họa tiết hoa sen thêu"
+        },
+        {
+          "id": "9c472747-6bbf-4332-9069-bdf73dc20755",
+          "name": "ĐẦM ĐUÔI CÁ D40652",
+          "brand": "nem",
+          "price": 599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_ec8a5a4eeed249379584243332b61755_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_80703ae43085482d9b349ec9223d6704_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_2__a1683143d30e4423906bb7bf8861fdc9_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d406521412362000257p599dt_1__174c5411f73446738f547ec6bc2a907f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng đuôi cá dài qua gối, tay bồng, cổ bẻ"
+        },
+        {
+          "id": "75a19fe4-fa54-45ae-b204-9bd72ea89630",
+          "name": "ĐẦM THIẾT KẾ PHỐI HOA CẮT D04272",
+          "brand": "nem",
+          "price": 1599000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_acd3c8747e29454c91b067b1c90cdcd8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_effcb73a73af4399b4903b667b73f682_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_3__950a3886b876408faff16b83a6aa1c32_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d042721412352010401p1699dt_1__7449bca45f03480088f17baefd581e8f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải thô",
+          "style": "đầm thiết kế dáng chữ A dài qua gối, tay bồng, cổ bẻ, tone màu đen kết hợp họa tiết hoa cắt"
+        },
+        {
+          "id": "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
+          "name": "ĐẦM THIẾT KẾ DÁNG A D07992",
+          "brand": "nem",
+          "price": 999000,
+          "size": [
+            {
+              "id": "size-6",
+              "name": "Size 6",
+              "isHave": false
+            },
+            {
+              "id": "size-8",
+              "name": "Size 8",
+              "isHave": false
+            },
+            {
+              "id": "size-10",
+              "name": "Size 10",
+              "isHave": true
+            },
+            {
+              "id": "size-12",
+              "name": "Size 12",
+              "isHave": true
+            },
+            {
+              "id": "size-14",
+              "name": "Size 14",
+              "isHave": false
+            }
+          ],
+          "images": [
+            "https://product.hstatic.net/200000182297/product/2_b153e500fc974dd795e2b94682ed5df3_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_1__8ca2be59df0b4e779655213615e3e106_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_5__e942c66a396048cc937e77ed34465cc8_master.jpg",
+            "https://product.hstatic.net/200000182297/product/d079921412352110401p1399dt_copy_9ae529cd06324745adac70ca326d083f_master.jpg"
+          ],
+          "colors": [{ "id": "color-3", "code": "#6f6431" }],
+          "material": "vải tổng hợp",
+          "style": "​đầm thiết kế dáng chữ A dài qua gối, tay bồng, tone màu đen trơn"
+        }
+      ],
+      "images": [
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_4_1.png?v=662",
+        "https://theme.hstatic.net/200000182297/1000887316/14/banner_section_coll_4_2.png?v=662"
+      ]
+    }
+  ]
+}

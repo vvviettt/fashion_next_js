@@ -1,7 +1,6 @@
 import { FC } from "react";
 import { CategoryItemInterface } from "../Header.interface";
-import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
+import { useRouter } from "next/navigation";
 import classNames from "classnames";
 import DownArrow from "@/assets/svg/down-arrow.svg";
 
@@ -10,11 +9,16 @@ interface CategoryItemProps {
 }
 
 const CategoryItem: FC<CategoryItemProps> = ({ category }) => {
-  const path = usePathname();
   const router = useRouter();
 
   return (
-    <div onClick={() => router.push(`/${category.path}`)}>
+    <div
+      className=" cursor-pointer"
+      onMouseDown={(e) => {
+        e.stopPropagation();
+        router.push(`/${category.path}`);
+      }}
+    >
       <div className="group-one">
         <div className="px-2.5 py-[15px] relative gap-1 flex text-[#07070780] group-one-hover:text-[#070707]">
           <span className="text-[14px] leading-[21px] uppercase font-medium ">

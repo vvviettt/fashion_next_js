@@ -18,8 +18,11 @@ const ImageSlice: FC<ImageSliceProps> = ({ data, aspect = "9/4" }) => {
           return (
             <div
               key={index}
-              className={`w-full aspect-[${aspect}] bg-cover `}
-              style={{ backgroundImage: `url(${item.imageUrl})` }}
+              className={`w-full bg-cover `}
+              style={{
+                backgroundImage: `url(${item.imageUrl})`,
+                aspectRatio: `${aspect}`,
+              }}
             ></div>
           );
         })}

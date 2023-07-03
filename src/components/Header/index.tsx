@@ -44,44 +44,44 @@ const Header = () => {
     },
     {
       id: "new-products",
-      path: "new-products",
+      path: "products/new-products",
       label: "Sản phẩm mới",
     },
     {
-      id: "new-collection",
-      path: "new-collection",
+      id: "collection",
+      path: "collection",
       label: "Bộ sưu tập",
       child: [
         {
           id: "endless-summer",
-          path: "endless-summer",
+          path: "638f6acf-e929-409f-9433-3f064b592522",
           label: "Endless summer",
         },
         {
           id: "nature-is-calling",
-          path: "nature-is-calling",
+          path: "9c472747-6bbf-4332-9069-bdf73dc20755",
           label: "Nature is calling",
         },
         {
           id: "color-your-life",
-          path: "color-your-life",
+          path: "a4914386-7d2c-4bb7-93cf-8305319ba8f3",
           label: "Color your life",
         },
         {
           id: "office-lady",
-          path: "office-lady",
+          path: "75a19fe4-fa54-45ae-b204-9bd72ea89630",
           label: "Office lady",
         },
       ],
     },
-    {
-      id: "nem-shop",
-      path: "nem-shop",
-      label: "nem shop",
-    },
+    // {
+    //   id: "blog",
+    //   path: "blogs",
+    //   label: "nem shop blog",
+    // },
     {
       id: "sale",
-      path: "sale",
+      path: "products/sale",
       label: "sale",
       child: [
         { id: "upto-50", path: "upto-50", label: "Sale up to 50%" },

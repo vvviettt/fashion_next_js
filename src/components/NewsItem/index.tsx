@@ -6,6 +6,7 @@ export interface NewsItemProps {
   id: string;
   image: string;
   title: string;
+  content: string;
 }
 const NewsItem: FC<NewsItemProps> = ({ id, image, title }) => {
   return (

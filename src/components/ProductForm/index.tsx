@@ -8,6 +8,7 @@ import { yupResolver } from "@hookform/resolvers/yup";
 import classNames from "classnames";
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
+import json from "@/constant/products.json";
 
 // Import Swiper styles
 import "swiper/css";
@@ -15,6 +16,9 @@ import "swiper/css/free-mode";
 import "swiper/css/pagination";
 import { FreeMode, Pagination } from "swiper";
 import "./swipper.css";
+import JsonQuery from "json-query";
+import { useParams } from "next/navigation";
+import { useLocalStorage } from "usehooks-ts";
 
 export interface ProductFormProps {
   image: string[];
@@ -36,28 +40,42 @@ const schema = yup.object({
   count: yup.number().min(1).max(100).required(),
 });
 
-type FormData = yup.InferType<typeof schema>;
+export type FormData = yup.InferType<typeof schema>;
 
-const ProductForm: FC<ProductFormProps> = ({
-  id,
-  name,
-  code,
-  branch,
-  price,
-  size,
-  style,
-  image,
-  color,
-}) => {
-  const [imgSelect, setImgSelect] = useState(image[0]);
-  const { register, handleSubmit, control, setValue, getValues } = useForm({
+const ProductForm: FC<ProductFormProps> = () => {
+  const params = useParams();
+  const result = JsonQuery(`all[0][**].products[*id=${params.productId}]`, {
+    data: json,
+  }).value[0];
+  const { id, name, brand, price, size, material, style, images, colors } =
+    result;
+  const [imgSelect, setImgSelect] = useState(images[0]);
+  const [cart, setCart] = useLocalStorage<FormData[]>("cart", []);
+  const { handleSubmit, control, setValue } = useForm({
     resolver: yupResolver(schema),
     defaultValues: { count: 1 },
   });
-  const onSubmit = (data: FormData) => console.log(data);
+  const onSubmit = (data: FormData) => {
+    const haveData = cart.find((item) => {
+      return item.product_id == data.product_id;
+    });
+
+    if (haveData) {
+      setCart(
+        cart.map((item) => {
+          if (item.product_id === data.product_id) {
+            return data;
+          }
+          return item;
+        })
+      );
+    } else {
+      setCart([...cart, data]);
+    }
+  };
   useEffect(() => {
     setValue("product_id", id);
-    setValue("colorId", color[0].id);
+    setValue("colorId", colors[0].id);
     for (let i = 0; i < size.length; i++) {
       if (size[i].isHave) {
         setValue("sizeId", size[i].id);
@@ -66,6 +84,7 @@ const ProductForm: FC<ProductFormProps> = ({
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
   return (
     <div className="flex">
       <div className="w-2/3 flex gap-2">
@@ -82,7 +101,7 @@ const ProductForm: FC<ProductFormProps> = ({
             modules={[FreeMode]}
             className="mySwiper"
           >
-            {image.map((i) => {
+            {images.map((i: string) => {
               return (
                 <SwiperSlide
                   key={i}
@@ -112,9 +131,9 @@ const ProductForm: FC<ProductFormProps> = ({
             {name}
           </h3>
           <div className="mb-4">
-            <p className="text-[12px] text-text text-opacity-80 ">
-              Thương hiêu: {branch}
-              <br /> Mã SP: ${code}
+            <p className="text-[12px] text-text text-opacity-80">
+              Thương hiệu: <span className=" uppercase">{brand}</span>
+              <br /> Mã SP: 190VC6WED77DS77S8888
             </p>
           </div>
           <div className="mb-4">
@@ -124,13 +143,13 @@ const ProductForm: FC<ProductFormProps> = ({
           </div>
           <div className="pb-2">
             <p className="font-semibold text-text text-[14px]">Kích thước</p>
-            <div className="flex gap-1">
+            <div className="flex gap-1 flex-wrap">
               <Controller
                 name={"sizeId"}
                 control={control}
                 render={({ field: { onChange, value } }) => (
                   <>
-                    {size.map((it) => (
+                    {size.map((it: any) => (
                       <div
                         className="my-1 px-3 py-0.5 border relative flex items-center h-[30px] cursor-pointer"
                         key={it.id}
@@ -158,8 +177,8 @@ const ProductForm: FC<ProductFormProps> = ({
               name={"colorId"}
               control={control}
               render={({ field: { onChange, value } }) => (
-                <div className="flex gap-1">
-                  {color.map((it) => (
+                <div className="flex gap-1 flex-wrap">
+                  {colors.map((it: any) => (
                     <div
                       key={it.id}
                       className={classNames(`w-8 h-8 rounded-full my-1`, {
@@ -245,6 +264,16 @@ const ProductForm: FC<ProductFormProps> = ({
             >
               <span className="text-white">Mua ngay</span>
             </button>
+          </div>
+          <div className="mt-3">
+            <p className="text-text text-[14px] leading-5">
+              <span className="font-semibold">Chất liệu : </span>
+              {material}
+            </p>
+            <p className="text-text text-[14px] leading-5">
+              <span className="font-semibold">Kiểu dáng : </span>
+              {style}
+            </p>
           </div>
         </form>
       </div>
